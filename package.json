@@ -1,0 +1,24 @@
+{
+  "name": "startup-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezzaddeentru/startup-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezzaddeentru/startup-project/issues"
+  },
+  "homepage": "https://github.com/ezzaddeentru/startup-project#readme",
+  "dependencies": {
+    "browserify": "^16.5.2",
+    "live-server": "^1.2.1",
+    "lodash": "^4.17.20"
+  }
+}
